@@ -428,6 +428,7 @@ No. | Name | Description
 No. | Name | Description
 --- | --- | ---
 **01** | **[Calligraphy](https://github.com/chrisjenx/Calligraphy)** | Custom fonts in Android the easy way
+**02** | **[CoffeeTextView](https://github.com/devmike01/coffeetextview)** | Custom textview that lets developer easily set animation and font style from xml
 
 ## Theme / Skin
 No. | Name | Description
